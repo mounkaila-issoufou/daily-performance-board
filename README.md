@@ -1,10 +1,8 @@
-# Daily Performance Board
+## Overview
 
-A simple and practical Excel-based tool designed to support daily performance management in manufacturing environments.
+Daily Performance Board is a practical Excel-based visual management tool designed for manufacturing teams.
 
-The Daily Performance Board provides a clear visual overview of production and quality performance, making it easier for teams to review results, identify issues, and drive continuous improvement.
-
----
+It helps supervisors, team leaders and production managers monitor daily performance, review quality indicators and support operational discussions during shopfloor meetings, shift handovers and performance review sessions.
 
 ## Preview
 
