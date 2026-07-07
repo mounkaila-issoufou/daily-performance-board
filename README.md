@@ -1,125 +1,115 @@
-## Overview
+# Daily Performance Board
 
-Daily Performance Board is a practical Excel-based visual management tool designed for manufacturing teams.
+Outils Excel de management visuel conçus pour le pilotage de la performance en environnement industriel.
 
-It helps supervisors, team leaders and production managers monitor daily performance, review quality indicators and support operational discussions during shopfloor meetings, shift handovers and performance review sessions.
-
-## Preview
-
-![Daily Performance Board](assets/dashboard-preview.png)
-
-*Example of the daily performance board used for production monitoring, quality tracking, visual management and operational review meetings.*
-
-
-## Purpose
-
-This tool is intended to:
-
-- Monitor daily production performance
-- Track quality losses and non-conforming products
-- Support shopfloor discussions and decision-making
-- Facilitate daily meetings and performance reviews
-- Provide a printable visual management board for workshops and production areas
+Ces supports permettent d'animer la performance au quotidien, de suivre les indicateurs clés et de faciliter les échanges lors des réunions terrain.
 
 ---
 
-## Key Features
+## Aperçu
 
-### Production Monitoring
+### Pilotage Production & Qualité
 
-- Daily production by product format
-- Production target vs actual production
-- Performance status:
-  - 🟢 Ahead of target
-  - 🟠 Attention required
-  - 🔴 Behind target
+![Production & Qualité](assets/dashboard-preview.png)
 
-### Quality Monitoring
+Suivi quotidien :
 
-- Daily non-conforming products
-- Scrap / downgrade rate
-- Quality objective tracking
-- Historical trend visualization
-
-### Visual Management
-
-- Simple color-coded indicators
-- Easy-to-read KPI cards
-- One-page printable layout
-- Suitable for workshop display boards
+- Production réalisée vs objectif
+- Écarts de performance
+- Déclassés / pertes qualité
+- Taux de déclassement
+- Tendances et indicateurs qualité
 
 ---
 
-## Intended Use
+### Performance Atelier
 
-The board can be used during:
+![Performance Atelier](assets/performance-board-preview.png)
 
-- Daily stand-up meetings
-- Shift handovers
-- Morning production reviews
-- Performance animation meetings
-- Continuous improvement discussions
-- Operational review meetings
-- Management review sessions
+Suivi hebdomadaire :
 
----
-
-## Benefits
-
-- Fast data entry
-- Clear operational visibility
-- Standardized performance review
-- Supports problem-solving discussions
-- Encourages data-driven decisions
-- Easy to deploy and maintain
+- Performance par machine
+- Objectifs par équipement
+- Moyenne atelier
+- Comparaison semaine précédente
+- Identification des priorités d'action
 
 ---
 
-## Technology
+## Objectifs
 
-- Microsoft Excel
-- Structured tables
-- Dynamic formulas
-- Conditional formatting
-- Printable dashboard layout
+Ces outils ont été développés pour :
 
-No macros required.
+- Standardiser le suivi de la performance
+- Faciliter les réunions d'animation terrain
+- Donner une vision claire des écarts
+- Prioriser les actions correctives
+- Renforcer le pilotage visuel en atelier
 
 ---
 
-## Example KPIs
+## Cas d'utilisation
+
+Utilisation lors de :
+
+- Passations de poste
+- Réunions quotidiennes
+- COPIL de performance
+- Revues de production
+- Points qualité
+- Démarches d'amélioration continue
+
+---
+
+## Fonctionnalités
 
 ### Production
 
-- Daily Target
-- Actual Production
-- Production Gap
-- Achievement Rate
+- Objectif vs réalisé
+- Taux de réalisation
+- Écart à l'objectif
+- Statut visuel (🟢 🟠 🔴)
 
-### Quality
+### Qualité
 
-- Non-Conforming Products
-- Downgrade Rate
-- Quality Objective Compliance
+- Déclassés du jour
+- Taux de déclassement
+- Suivi des objectifs qualité
+- Tendances historiques
 
-### Trends
+### Performance Atelier
 
-- 7-Day Downgrade Rate Trend
-- Performance Evolution
-
----
-
-## Target Audience
-
-- Production Supervisors
-- Team Leaders
-- Shift Managers
-- Continuous Improvement Engineers
-- Operational Excellence Teams
-- Plant Managers
+- Performance par machine
+- Moyennes hebdomadaires
+- Comparaison Semaine N / Semaine N-1
+- Statuts visuels
+- Priorisation des actions
 
 ---
 
-## Project Goal
+## Technologies
 
-Provide a simple, accessible and effective visual management tool that helps production teams review performance, identify deviations and support operational discussions directly on the shopfloor.
+- Microsoft Excel
+- Tableaux structurés
+- Formules dynamiques
+- Mise en forme conditionnelle
+- Supports imprimables A3
+
+Aucune macro requise.
+
+---
+
+## Public visé
+
+- Chefs d'équipe
+- Responsables d'atelier
+- Responsables production
+- Ingénieurs amélioration continue
+- Responsables performance industrielle
+- Managers opérationnels
+
+---
+
+## Finalité
+
+Transformer les données de production en supports visuels simples, lisibles et exploitables pour aider les équipes à prendre les bonnes décisions au quotidien.
